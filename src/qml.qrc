@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColoredDial.qml</file>
+        <file>ColoredDialForm.ui.qml</file>
+        <file>scripts.js</file>
+        <file>icons/exit.svg</file>
+        <file>ConnectionButton.qml</file>
+        <file>ConnectionButtonForm.ui.qml</file>
+        <file>icons/check.svg</file>
+        <file>EffectItem.qml</file>
+        <file>EffectItemForm.ui.qml</file>
+        <file>Background.qml</file>
+        <file>BackgroundForm.ui.qml</file>
+        <file>CustomTabButton.qml</file>
+        <file>CustomTabButtonForm.ui.qml</file>
+        <file>icons/home.svg</file>
+        <file>icons/list.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/alert.svg</file>
+        <file>icons/minus.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/clock.svg</file>
+    </qresource>
+</RCC>
