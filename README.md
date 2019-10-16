@@ -4,3 +4,5 @@
 If you want to test the app, apk folder contains the apk file that can be used to install the app into Android device
 
 Code for ESP module can be found here: https://github.com/rekomerio/websocket-neopixel-esp
+
+[![App](http://img.youtube.com/vi/QqXIcdBUwfY/0.jpg)](http://www.youtube.com/watch?v=QqXIcdBUwfY "App")
